@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/quelloduro/Discord-Onliner?style=flat-square&color=purple">
 </p>
+
+<p align="center">
+  <img src="https://sethy.is-freaky.lol/NdYXI.png">
+</p>
