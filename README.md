@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://sethy.is-freaky.lol/NdYXI.png">
+  <img src="https://ibb.co/TBQLgGxw">
 </p>
