@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/github/stars/quelloduro/Discord-Onliner?style=flat-square&color=purple">
 </p>
 
-<a href="https://freeimage.host/i/2ZmtO1p"><img src="https://iili.io/2ZmtO1p.md.png" alt="2ZmtO1p.md.png" border="0"></a>
+<a href="https://sethy.is-freaky.lol/nlrSS.png"><img src="https://iili.io/2ZmtO1p.md.png" alt="2ZmtO1p.md.png" border="0"></a>
